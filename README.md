@@ -1,10 +1,5 @@
-## Figma URL
 
-[Unsplash Images](https://www.figma.com/file/O2MaAAlr4nznh7m53azatL/Unsplash-images?node-id=0%3A1&t=cYDOCgqOs9IX2If0-1)
-
-## Steps
-
-#### Setup
+#### A COURSE PROJECT TO PRACTICE REACT QUERY, DARK MODE AND ENV VARIABLES
 
 - npm install
 - npm run dev
